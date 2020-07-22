@@ -1,7 +1,7 @@
 {
-  "name": "react-native-rename",
-  "version": "2.4.1",
-  "description": "Rename react-native app with just one command",
+  "name": "react-native-rename-ttt",
+  "version": "0.0.1",
+  "description": "This lib is based on \"react-native-rename\", but it had been adjusted to rename projects that is cloned from TTT Studio's React Native (MobX version) template with multiple schemas.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
